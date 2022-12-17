@@ -13,3 +13,8 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+### Step 3 - Check git Version
+
+```bash
+git --version
+```
